@@ -9,8 +9,8 @@
 - *Ask me about Java and SpigotMC* 📫
 
 
-# <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=cirosanchez&show_icons=true&theme=dark"/>
-# <img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cirosanchez"/>
+# <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cirosanchez&show_icons=true&theme=dark"/>
+# <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cirosanchez"/>
 
 
 
