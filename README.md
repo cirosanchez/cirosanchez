@@ -8,10 +8,10 @@
 - *Currently looking to collab on any open-source proyect* 👯
 - *Ask me about Java and SpigotMC* 📫
 
-
-# <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cirosanchez&show_icons=true&theme=dark"/>
-# <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cirosanchez"/>
-
+<div id="stats" align="center">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cirosanchez&show_icons=true&theme=dark"/>
+    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cirosanchez"/>
+</div>
 
 
 
