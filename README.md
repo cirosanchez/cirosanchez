@@ -23,7 +23,7 @@
 
 ### About Me
 
-- I'm Ciro, a 17 year old self-taught developer from Colombia 🇨🇴
+- I'm Ciro, a 16 year old self-taught developer from Colombia 🇨🇴
 - I currently study Computers Science, Business Management and Chemistry in the international Baccalaureate.
 - I'm currently learning Shell and Rust.
 
