@@ -4,6 +4,9 @@
 
 <p align="center">
 Computer Science Student · Systems Builder · Research Assistant  
+</p>
+
+<p align="center">
 University of Calgary
 </p>
 
@@ -56,53 +59,21 @@ Alongside my technical work, I am building an online course that introduces Span
 
 # 🚀 Flagship Project
 
-## High-Performance Vector Search Benchmarking Framework
-
-Designing and evaluating performance-critical search infrastructure focused on approximate nearest neighbor (ANN) algorithms and database-scale workloads.
-
-This work centers on benchmarking pipeline behavior, measuring latency breakdowns and identifying bottlenecks across multi-stage vector search execution.
-
-### Core Work
-
-- Instrumented search stages for precise latency measurement  
-- Built profiling pipelines using `perf` and flamegraphs  
-- Analyzed thread-level execution and pipeline behavior  
-- Improved observability of multi-stage search systems  
-
-### Key Skills Demonstrated
-
-- Low-level performance profiling  
-- Systems instrumentation  
-- Parallel workload analysis  
-- Benchmark-driven optimization  
-
-**Tech:**  
-`C++` `Performance Engineering` `Benchmarking` `Database Systems` `Linux`
-
-**Status:** Active Development  
+Soon...
 
 ---
 
 # Selected Work
 
-## Minecraft Distributed Plugin Systems
-
-Designed and deployed over 10 production-ready plugins supporting competitive multiplayer environments, focusing on efficient database interaction and structured architecture.
-
-## Team vs Team vs Team Gamemode
-
-Built a full multi-team competitive system from scratch, including match logic, persistence and player data systems.
-
-## Educational CS Platform (In Progress)
-
-Developing a Kotlin-based Minecraft plugin course for Spanish-speaking students, targeting accessibility and long-term progression into computer science.
+Soon...
 
 ---
 
 # Research & Academic Work
 
 - Research Assistant — Database Systems and Infrastructure Lab  
-- Ready for Research Badge — Taylor Institute  
+- Ready for Research Badge — Taylor Institute
+- Minor in Data Science — Faculty of Science
 - Embedded Certificate in Entrepreneurial Thinking — Hunter Hub  
 
 ---
